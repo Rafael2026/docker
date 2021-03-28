@@ -2,6 +2,7 @@
 <a href = "https://en.wikipedia.org/wiki/Docker_(software)">Docker (wikipedia)</a>
 
 ## Kubernetes information
+<a href = "https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">Kubernestes documentation</a>
 
 ## Official website
 <a href = "https://www.docker.com/">Official website (docker)</a>
