@@ -12,5 +12,5 @@
 <a href="https://www.youtube.com/watch?v=VhWIuQRDabE">Docker para desarrolladores (openwebinars)</a><br>
 <a href="https://www.youtube.com/watch?v=U57Ha-uRD_M">Docker vs Kubernetes (openwebinars)</a>
 
-## External repository - GitHub
+## Official repository - GitHub
 <a href="https://github.com/docker/docker.github.io">Docker repository</a><br>
