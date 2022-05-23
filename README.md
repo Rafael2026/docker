@@ -5,7 +5,7 @@
 <a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">Kubernetes information</a>
 
 ## Official website
-<a href="https://www.docker.com/">Official website (docker)</a>
+<a href="https://www.docker.com/">Docker</a>
 
 ## Tutorials
 <a href="https://www.youtube.com/watch?v=i6Wm8p87Z84">Introducción de docker (openwebinars)</a><br>
