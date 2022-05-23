@@ -1,8 +1,8 @@
 ## Docker information
 <a href="https://en.wikipedia.org/wiki/Docker_(software)">Docker Wikipedia</a>
 
-## Kubernetes information
-<a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">Kubernetes documentation</a>
+## Kubernetes documentation
+<a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">Kubernetes information</a>
 
 ## Official website
 <a href="https://www.docker.com/">Official website (docker)</a>
