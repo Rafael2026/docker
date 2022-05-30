@@ -8,6 +8,9 @@
 <a href="https://www.docker.com/">Docker</a>
 
 ## Tutorials
+[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/i6Wm8p87Z84/maxresdefault.jpg)](https://www.youtube.com/watch?v=i6Wm8p87Z84)
+<p>Introducción de docker (openwebinars)</p><br>
+
 <a href="https://www.youtube.com/watch?v=i6Wm8p87Z84">Introducción de docker (openwebinars)</a><br>
 <a href="https://www.youtube.com/watch?v=VhWIuQRDabE">Docker para desarrolladores (openwebinars)</a><br>
 <a href="https://www.youtube.com/watch?v=U57Ha-uRD_M">Docker vs Kubernetes (openwebinars)</a>
