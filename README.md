@@ -14,5 +14,8 @@
 
 <a href="https://www.youtube.com/watch?v=U57Ha-uRD_M">Kubernetes vs Docker</a>
 
-## Official repository - GitHub
-<a href="https://github.com/docker/docker.github.io">Docker repository</a>
+## Official repository
+<a href="https://github.com/docker/docker.github.io">Docker Github</a>
+
+## Official repository
+<a href="https://github.com/kubernetes">Kubernetes Github</a>
