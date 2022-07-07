@@ -8,11 +8,21 @@
 <a href="https://www.docker.com/">Docker</a>
 
 ## Tutorials (OpenWebinars)
-<a href="https://www.youtube.com/watch?v=i6Wm8p87Z84">What is Docker and how to use it?</a>
+<ul>
+  
+  <li>
+    <a href="https://www.youtube.com/watch?v=i6Wm8p87Z84">What is Docker and how to use it?</a>
+  </li>
+  
+  <li>
+    <a href="https://www.youtube.com/watch?v=VhWIuQRDabE">Docker for developers</a>
+  </li>
+  
+  <li>
+    <a href="https://www.youtube.com/watch?v=U57Ha-uRD_M">Kubernetes vs Docker</a>
+  </li>
 
-<a href="https://www.youtube.com/watch?v=VhWIuQRDabE">Docker for developers</a>
-
-<a href="https://www.youtube.com/watch?v=U57Ha-uRD_M">Kubernetes vs Docker</a>
+</ul>
 
 ## Official repository
 <a href="https://github.com/docker/docker.github.io">Docker Github</a>
