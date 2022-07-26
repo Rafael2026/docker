@@ -24,8 +24,15 @@
 
 </ul>
 
-## Official repository
-<a href="https://github.com/docker/docker.github.io">Docker Github</a>
+## Official repositories
+<ul>
 
-## Official repository
-<a href="https://github.com/kubernetes">Kubernetes Github</a>
+  <li>
+    <a href="https://github.com/docker/docker.github.io">Docker Github</a>
+  </li>
+  
+  <li>
+    <a href="https://github.com/kubernetes">Kubernetes Github</a>
+  </li>
+
+</ul>
