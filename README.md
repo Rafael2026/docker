@@ -46,8 +46,18 @@
 <a href="https://github.com/docker">Docker</a>
 
 ## Infographics online
-<a href="https://edteam-media.s3.amazonaws.com/infographics/original/0adc2502-12c7-44fc-9873-4a5d498ab73a.jpg">EdTeam - Docker Infographic (Part I)</a>
-
-<a href="https://i.pinimg.com/originals/32/9f/11/329f1139fe76db317bd943ce9cd57bac.jpg">EdTeam - Docker Infographic (Part II)</a>
-
-<a href="https://edteam-media.s3.amazonaws.com/infographics/original/bde4a0fa-ce8c-4bbb-8a5e-9bbc58e49568.png">EdTeam - Kubernetes Infographic</a>
+<ul>
+  
+  <li>
+    <a href="https://edteam-media.s3.amazonaws.com/infographics/original/0adc2502-12c7-44fc-9873-4a5d498ab73a.jpg">EdTeam - Docker Infographic (Part I)</a>
+  </li>
+  
+  <li>
+    <a href="https://i.pinimg.com/originals/32/9f/11/329f1139fe76db317bd943ce9cd57bac.jpg">EdTeam - Docker Infographic (Part II)</a>
+  </li>
+  
+  <li>
+    <a href="https://edteam-media.s3.amazonaws.com/infographics/original/bde4a0fa-ce8c-4bbb-8a5e-9bbc58e49568.png">EdTeam - Kubernetes Infographic</a>
+  </li>
+  
+</ul>
