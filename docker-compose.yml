@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+ MySQL:
+  image: 'mysql:latest'
+  container_name: 'MySQL'
+  environment:
+   MYSQL_USER: root
+  ports:
+   - 3306:3306
