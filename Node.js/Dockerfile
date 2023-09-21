@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:20.7-bookworm-slim
 WORKDIR /app
 COPY . /app
 RUN npm install
