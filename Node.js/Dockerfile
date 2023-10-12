@@ -1,4 +1,4 @@
-FROM node:20.7-bullseye-slim
+FROM node:20.8-bookworm-slim
 WORKDIR /app
 COPY . /app
 RUN npm install
