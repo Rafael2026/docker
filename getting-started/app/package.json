@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "mysql2": "^3.10.0",
     "sqlite3": "^5.1.7",
     "uuid": "^9.0.1",
