@@ -70,3 +70,4 @@ urllib3==2.3.0
 watchdog==6.0.0
 wheel==0.45.1
 XlsxWriter==3.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
