@@ -1,15 +1,15 @@
 {
   "dependencies": {
-    "express": "^4.21.1",
-    "mysql2": "^3.11.4",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
     "sqlite3": "^5.1.7",
-    "uuid": "^11.0.2",
+    "uuid": "^11.0.3",
     "wait-port": "^1.1.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "nodemon": "^3.1.7",
-    "prettier": "^3.3.3"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
   },
   "license": "MIT",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "useTabs": false
   },
   "resolutions": {
-    "ansi-regex": "5.0.1"
+    "ansi-regex": "6.1.0"
   },
   "scripts": {
     "dev": "nodemon src/index.js",

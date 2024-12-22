@@ -16,12 +16,12 @@ changes and then restart the application. There are equivalent tools in most oth
 Bind mounts and named volumes are the two main types of volumes that come with the Docker engine. However, additional
 volume drivers are available to support other use cases ([SFTP](https://github.com/vieux/docker-volume-sshfs), [Ceph](https://ceph.com/geen-categorie/getting-started-with-the-docker-rbd-volume-plugin/), [NetApp](https://netappdvp.readthedocs.io/en/stable/), [S3](https://github.com/elementar/docker-s3-volume), and more).
 
-|   | Named Volumes | Bind Mounts |
-| - | ------------- | ----------- |
-| Host Location | Docker chooses | You control |
-| Mount Example (using `-v`) | my-volume:/usr/local/data | /path/to/data:/usr/local/data |
-| Populates new volume with container contents | Yes | No |
-| Supports Volume Drivers | Yes | No |
+|                                              | Named Volumes             | Bind Mounts                   |
+| -------------------------------------------- | ------------------------- | ----------------------------- |
+| Host Location                                | Docker chooses            | You control                   |
+| Mount Example (using `-v`)                   | my-volume:/usr/local/data | /path/to/data:/usr/local/data |
+| Populates new volume with container contents | Yes                       | No                            |
+| Supports Volume Drivers                      | Yes                       | No                            |
 
 
 ## Starting a Dev-Mode Container
@@ -112,8 +112,8 @@ of flags).
 At this point, we can persist our database and respond rapidly to the needs and demands of our investors and founders. Hooray!
 But, guess what? We received great news!
 
-**Your project has been selected for future development!** 
+**Your project has been selected for future development!**
 
 In order to prepare for production, we need to migrate our database from working in SQLite to something that can scale a
-little better. For simplicity, we'll keep with a relational database and switch our application to use MySQL. But, how 
+little better. For simplicity, we'll keep with a relational database and switch our application to use MySQL. But, how
 should we run MySQL? How do we allow the containers to talk to each other? We'll talk about that next!
