@@ -1,11 +1,11 @@
 # Install the base requirements for the app.
 # This stage is to support development.
-FROM --platform=$BUILDPLATFORM python:alpine AS base
+FROM --platform=$BUILDPLATFORM python:latest AS base
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
-FROM --platform=$BUILDPLATFORM node:18-alpine AS app-base
+FROM --platform=$BUILDPLATFORM node:24-alpine AS app-base
 WORKDIR /app
 COPY app/package.json app/yarn.lock ./
 COPY app/spec ./spec
