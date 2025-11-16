@@ -1,4 +1,4 @@
-FROM node:alpine
+npm auditFROM node:latest
 WORKDIR /app
 COPY . /app
 RUN npm install
