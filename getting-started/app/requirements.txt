@@ -72,7 +72,7 @@ face==24.0.0
 fastapi==0.121.2
 fastapi-cli==0.0.16
 fastjsonschema==2.21.2
-filelock==3.20.0
+filelock==3.20.1
 Flask==3.1.2
 flatbuffers==25.9.23
 fonttools==4.60.1
