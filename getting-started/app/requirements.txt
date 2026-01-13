@@ -18,7 +18,7 @@ asyncore-wsgi==0.0.11
 attrs==25.4.0
 audioop-lts==0.2.2
 azure-ai-documentintelligence==1.0.2
-azure-core==1.36.0
+azure-core==1.38.0
 azure-identity==1.25.1
 babel==2.17.0
 BAC0==2025.9.15
