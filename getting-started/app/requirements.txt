@@ -214,7 +214,7 @@ publicsuffix2==2.20191221
 pure_eval==0.2.3
 puremagic==1.30
 pyahocorasick==2.2.0
-pyasn1==0.6.1
+pyasn1==0.6.2
 pyasyncore==1.0.4
 pycparser==2.23
 pycryptodome==3.23.0
